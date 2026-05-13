@@ -1,25 +1,25 @@
-# 🧠 MY-AI-SECOND-BRAIN
+#  MY-AI-SECOND-BRAIN
 
 A personal memory & idea vault — your digital second brain built with **FastAPI**, **React**, **Tailwind CSS**, and **JSON storage**.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧠 **Memory Blocks** — Capture ideas, memories, quotes, learnings, tasks, dreams & insights
-- 📌 **Pin Important Memories** — Keep key thoughts at the top
-- 🏷 **Tag System** — Organize with custom tags and explore via Tag Cloud
-- 🗂 **8 Categories** — General, Ideas, Memories, Quotes, Learning, Tasks, Dreams, Insights
-- 🔍 **Smart Search** — Full-text search across titles, content, and tags
-- 📊 **Analytics Dashboard** — Track memory stats, word counts, activity heatmap, category breakdown
-- 🎨 **Accent Colors** — Personalize each memory with a color accent
-- 🕐 **Relative Timestamps** — "just now", "2h ago", etc.
-- 👁 **View Counts** — Track which memories you revisit most
-- 📱 **Responsive Layout** — Works on desktop and mobile
+-  **Memory Blocks** — Capture ideas, memories, quotes, learnings, tasks, dreams & insights
+-  **Pin Important Memories** — Keep key thoughts at the top
+-  **Tag System** — Organize with custom tags and explore via Tag Cloud
+-  **8 Categories** — General, Ideas, Memories, Quotes, Learning, Tasks, Dreams, Insights
+-  **Smart Search** — Full-text search across titles, content, and tags
+-  **Analytics Dashboard** — Track memory stats, word counts, activity heatmap, category breakdown
+-  **Accent Colors** — Personalize each memory with a color accent
+-  **Relative Timestamps** — "just now", "2h ago", etc.
+-  **View Counts** — Track which memories you revisit most
+- **Responsive Layout** — Works on desktop and mobile
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 MY-AI-SECOND-BRAIN/
@@ -59,7 +59,7 @@ MY-AI-SECOND-BRAIN/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - **Python 3.8+**
@@ -101,7 +101,7 @@ npm start
 
 ---
 
-## 🌐 Access
+##  Access
 
 | Service | URL |
 |---------|-----|
@@ -132,14 +132,14 @@ npm start
 
 ---
 
-## 💾 Data Storage
+##  Data Storage
 
 All data is stored in `backend/data/brain_data.json`. This file is auto-created on first run.
 Back it up regularly to preserve your memories!
 
 ---
 
-## 🎨 Tech Stack
+##  Tech Stack
 
 - **Backend**: FastAPI (Python) + JSON file storage
 - **Frontend**: React 18 + Tailwind CSS + Lucide Icons
@@ -148,4 +148,3 @@ Back it up regularly to preserve your memories!
 
 ---
 
-Made with 💜 — Your thoughts deserve a home.
