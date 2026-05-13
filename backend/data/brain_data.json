@@ -1,0 +1,22 @@
+{
+  "memories": [
+    {
+      "id": "3ab4bb31-38bd-4573-988e-ffff3f22d5d8",
+      "title": "how to run backend ",
+      "content": "uvicorn main:app --reload ",
+      "tags": [],
+      "category": "general",
+      "is_pinned": false,
+      "color": "#6366f1",
+      "created_at": "2026-05-13T10:42:35.343676",
+      "updated_at": "2026-05-13T10:42:35.343676",
+      "word_count": 3,
+      "views": 0
+    }
+  ],
+  "tags": [],
+  "stats": {
+    "total_entries": 1,
+    "total_tags": 0
+  }
+}
